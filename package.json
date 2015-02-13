@@ -1,0 +1,29 @@
+{
+  "name": "sift-distance",
+  "version": "1.0.0",
+  "description": "SIFT distance algorithm",
+  "license": "MIT",
+  "keywords": [
+    "sift",
+    "distance",
+    "string",
+    "algorithm"
+  ],
+  "main": "lib/sift",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de/)",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/jhermsmeier/node-sift-distance",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermsmeier/node-sift-distance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-sift-distance/issues"
+  }
+}
